@@ -2,7 +2,6 @@ from pyuseragents import random as random_u
 import cloudscraper
 from bs4 import BeautifulSoup
 from cprint import *
-from tkinter import *
 
 
 class CheckNetwork:
