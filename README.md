@@ -12,7 +12,7 @@
 
  * Launch installer, click 'add python to PATH'
 
- * Download "Checking-your-wallet" [here](https://github.com/Forvad/Checking-your-wallet/archive/refs/heads/main.zip)
+ * Download "Checking-your-wallet" [here]([https://github.com/Forvad/Checking-your-wallet/archive/refs/heads/main.zip](https://github.com/Forvad/Checking-your-wallet/archive/refs/heads/main.zip))
 
  * Open Command Line in "Checking-your-wallet" directory
 
