@@ -1,0 +1,5 @@
+cloudscraper==1.2.68
+pyuseragents==1.0.5
+bs4==0.0.1
+beautifulsoup4==4.11.1
+cprint==1.2.2
